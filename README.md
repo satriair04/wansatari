@@ -1,2 +1,3 @@
 # wansatari
-Repository publik pertama saya.
+Tulisan baru mengganti baris kedua
+Tambahan
