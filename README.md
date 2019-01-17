@@ -1,3 +1,3 @@
 # wansatari
 Tulisan baru mengganti baris kedua
-Tambahan
+Tambahan kata pada branch master
